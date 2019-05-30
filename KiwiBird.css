@@ -1,0 +1,55 @@
+/*styles for coffe break website*/
+
+
+
+body{
+		background-image: url("images/BackgroundRiver.jpg");
+  	background-repeat: no-repeat;
+	  background-attachment: fixed;
+		background-size: 1620px 780px;
+font-family: Tahoma, Geneva, sans serif;}
+
+#container {
+	width: 720px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFcc99;
+	margin-top: 0px;
+}
+
+#center {
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFcc99;
+}
+.padding {
+	margin: 5px;
+	padding: 5px;
+}
+.center {
+      display: block;
+      margin-left: -100px;
+      margin-right: auto;
+      padding:1px;
+      border:2px solid #5d76a0;
+      background-color:##5d76a0;
+    }
+.border {
+		  display: block;
+		  padding:1px;
+		  border:2px solid #5d76a0;
+		  background-color:##5d76a0;
+		}
+
+.banner {
+		display: block;
+		margin-left: -2.5px;
+		padding:1px;
+		border:2px solid #5d76a0;
+		background-color:##5d76a0;
+}
+ .contact {
+	 margin: 1px;
+	 padding: 1px;
+ }
